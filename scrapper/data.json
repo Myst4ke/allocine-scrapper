@@ -1,5 +1,5 @@
 {
-    "films_number": 15,
+    "films_number": 75,
     "films": [
         {
             "title": "Les Gardiens de la Galaxie 3",
@@ -13,7 +13,7 @@
                 "Dave Bautista"
             ],
             "synopsis": "Notre bande de marginaux favorite a quelque peu changé. Peter Quill, qui pleure toujours la perte de Gamora, doit rassembler son équipe pour défendre l’univers et protéger l’un des siens. En cas d’échec, cette mission pourrait bien marquer la fin des Gardiens tels que nous les connaissons.",
-            "sessions": 1127,
+            "sessions": 1129,
             "rating": {
                 "critics": 3.6,
                 "audience": 4.3
@@ -31,7 +31,7 @@
                 "Jérémie Covillault"
             ],
             "synopsis": "Alors qu’ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit.",
-            "sessions": 797,
+            "sessions": 800,
             "rating": {
                 "critics": 3.1,
                 "audience": 4.2
@@ -49,7 +49,7 @@
                 "Jason Momoa"
             ],
             "synopsis": "Dans FAST & FURIOUS 5, Dom et son équipe avaient fait tomber l’infâme ponte de la drogue brésilienne, Hernan Reyes. Ils étaient loin de se douter que son fils avait assisté impuissant à la scène et qu’il avait passé ces douze dernières années à échafauder sa vengeance.",
-            "sessions": 892,
+            "sessions": 901,
             "rating": {
                 "critics": 2.9,
                 "audience": 3.5
@@ -67,7 +67,7 @@
                 "Benjamin Lavernhe"
             ],
             "synopsis": "Jeanne Vaubernier, fille du peuple avide de s’élever socialement, met à profit ses charmes pour sortir de sa condition. Son amant le comte Du Barry, qui s’enrichit largement grâce aux galanteries lucratives de Jeanne, souhaite la présenter au Roi. Il organise la rencontre via l’entremise de l’influent duc de Richelieu.",
-            "sessions": 1016,
+            "sessions": 1025,
             "rating": {
                 "critics": 3.1,
                 "audience": 3.5
@@ -85,7 +85,7 @@
                 "Romain Duris"
             ],
             "synopsis": "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
-            "sessions": 569,
+            "sessions": 570,
             "rating": {
                 "critics": 3.7,
                 "audience": 4.0
@@ -103,7 +103,7 @@
                 "Mathieu Madenian"
             ],
             "synopsis": "Deux petits villages du Sud de la France se livrent depuis toujours une impitoyable guerre de clocher, symbolisée par un redoutable derby entre les deux équipes de rugby. L'arrivée inattendue de demandeurs d’asile va bouleverser la vie de ces deux villages.",
-            "sessions": 664,
+            "sessions": 667,
             "rating": {
                 "critics": 3.0,
                 "audience": 3.0
@@ -121,7 +121,7 @@
                 "Émilie Caen"
             ],
             "synopsis": "13 janvier 2018. 8h07. Une alerte au missile balistique sème la panique sur l’île de Hawaï. Persuadés qu’ils vont mourir, des amis venus passer leurs vacances en bande, se disent ce qu’ils n’ont jamais osé s’avouer. Mais il s’agit d’une fausse alerte...",
-            "sessions": 713,
+            "sessions": 724,
             "rating": {
                 "critics": 2.5,
                 "audience": 2.7
@@ -139,10 +139,10 @@
                 "Miranda Tapsell"
             ],
             "synopsis": "Tous les animaux vivent en harmonie dans la Cité Sanctuaire, protégés par un Arbre à Vœux sacré, qui les maintient à l’abri des dangers du monde extérieur. Kerry, une jeune opossum, rêve d’aventure. Alors qu’elle a égoïstement mis en péril la paix qui y régnait, elle doit traverser les terres sauvages entourant la Cité Sanctuaire pour réparer les dégâts qu’elle y a causés.",
-            "sessions": 602,
+            "sessions": 607,
             "rating": {
                 "critics": 3.0,
-                "audience": 2.7
+                "audience": 2.6
             }
         },
         {
@@ -175,7 +175,7 @@
                 "Kad Merad"
             ],
             "synopsis": "Tridan Lagache a passé sa vie au Club Med, à changer d’amis tous les 8 jours. À 50 ans, il démissionne du club de vacances mexicain où il est né, bien décidé à retrouver, 42 ans plus tard, son grand amour d’enfance, Violette.",
-            "sessions": 436,
+            "sessions": 437,
             "rating": {
                 "critics": 2.8,
                 "audience": 2.7
@@ -193,7 +193,7 @@
                 "Marina Hands"
             ],
             "synopsis": "Sabri Lahlali, Principal adjoint d’un collège de quartier, est prêt à tout pour que son fils, sur le point de passer le brevet, ait le dossier scolaire idéal. Mais il ne sait pas jusqu’où son entreprise va le mener...",
-            "sessions": 694,
+            "sessions": 706,
             "rating": {
                 "critics": 3.3,
                 "audience": 3.2
@@ -211,7 +211,7 @@
                 "Alex Essoe"
             ],
             "synopsis": "Inspiré des véritables archives du Père Gabriele Amorth, exorciste en chef du Vatican. Le Père Gabriele Amorth enquête suite à la découverte terrifiante d'un jeune garçon possédé. Ses investigations le mèneront à dévoiler une conspiration séculaire que le Vatican a désespérément tenté de maintenir dans l'oubli.",
-            "sessions": 398,
+            "sessions": 401,
             "rating": {
                 "critics": 2.9,
                 "audience": 2.7
@@ -229,7 +229,7 @@
                 "Hiroshi Abe"
             ],
             "synopsis": "Japon, XVIIIème siècle. Le jeune Shunrô, apprenti peintre, est exclu de son école à cause de son tempérament impétueux et du style peu conventionnel de ses estampes. Personne n’imagine alors qu’il deviendra Hokusai, célèbre auteur de la Grande vague de Kanagawa.",
-            "sessions": 465,
+            "sessions": 467,
             "rating": {
                 "critics": 3.2,
                 "audience": 3.3
@@ -247,7 +247,7 @@
                 "Evelyne Istria"
             ],
             "synopsis": "Yannick est aide-soignant dans une maison de retraite. Entre pression permanente et restrictions budgétaires, il fait face aux manques de moyens avec une bonne humeur contagieuse. Mais lorsqu’on lui impose de partager le réfectoire avec une classe d’enfants, la situation se complique. Leur arrivée ainsi que celle de son animatrice, Aude, va bousculer le quotidien de tous et surtout des résidents...",
-            "sessions": 449,
+            "sessions": 454,
             "rating": {
                 "critics": 3.1,
                 "audience": 2.8
@@ -269,6 +269,1070 @@
             "rating": {
                 "critics": 3.3,
                 "audience": 3.9
+            }
+        },
+        {
+            "title": "Les Gardiens de la Galaxie 3",
+            "release_date": "3 mai 2023",
+            "length": "2h 30min",
+            "type": "Action, Fantastique, Science Fiction",
+            "director": "James Gunn",
+            "actors": [
+                "Chris Pratt",
+                "Zoe Saldana",
+                "Dave Bautista"
+            ],
+            "synopsis": "Notre bande de marginaux favorite a quelque peu changé. Peter Quill, qui pleure toujours la perte de Gamora, doit rassembler son équipe pour défendre l’univers et protéger l’un des siens. En cas d’échec, cette mission pourrait bien marquer la fin des Gardiens tels que nous les connaissons.",
+            "sessions": 1129,
+            "rating": {
+                "critics": 3.6,
+                "audience": 4.3
+            }
+        },
+        {
+            "title": "Super Mario Bros, le film",
+            "release_date": "5 avril 2023",
+            "length": "1h 32min",
+            "type": "Animation, Comédie, Famille",
+            "director": "Aaron Horvath, Michael Jelenic",
+            "actors": [
+                "Pierre Tessier",
+                "Chris Pratt",
+                "Jérémie Covillault"
+            ],
+            "synopsis": "Alors qu’ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit.",
+            "sessions": 800,
+            "rating": {
+                "critics": 3.1,
+                "audience": 4.2
+            }
+        },
+        {
+            "title": "Fast & Furious X",
+            "release_date": "17 mai 2023",
+            "length": "2h 21min",
+            "type": "Action",
+            "director": "Louis Leterrier",
+            "actors": [
+                "Vin Diesel",
+                "Michelle Rodriguez",
+                "Jason Momoa"
+            ],
+            "synopsis": "Dans FAST & FURIOUS 5, Dom et son équipe avaient fait tomber l’infâme ponte de la drogue brésilienne, Hernan Reyes. Ils étaient loin de se douter que son fils avait assisté impuissant à la scène et qu’il avait passé ces douze dernières années à échafauder sa vengeance.",
+            "sessions": 901,
+            "rating": {
+                "critics": 2.9,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Jeanne du Barry",
+            "release_date": "17 mai 2023",
+            "length": "1h 56min",
+            "type": "Drame, Historique, Romance",
+            "director": " Maïwenn",
+            "actors": [
+                "Maïwenn",
+                "Johnny Depp",
+                "Benjamin Lavernhe"
+            ],
+            "synopsis": "Jeanne Vaubernier, fille du peuple avide de s’élever socialement, met à profit ses charmes pour sortir de sa condition. Son amant le comte Du Barry, qui s’enrichit largement grâce aux galanteries lucratives de Jeanne, souhaite la présenter au Roi. Il organise la rencontre via l’entremise de l’influent duc de Richelieu.",
+            "sessions": 1025,
+            "rating": {
+                "critics": 3.1,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Les Trois Mousquetaires: D'Artagnan",
+            "release_date": "5 avril 2023",
+            "length": "2h 01min",
+            "type": "Aventure, Historique",
+            "director": "Martin Bourboulon",
+            "actors": [
+                "François Civil",
+                "Vincent Cassel",
+                "Romain Duris"
+            ],
+            "synopsis": "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
+            "sessions": 570,
+            "rating": {
+                "critics": 3.7,
+                "audience": 4.0
+            }
+        },
+        {
+            "title": "Pour l’honneur",
+            "release_date": "3 mai 2023",
+            "length": "1h 37min",
+            "type": "Comédie",
+            "director": "Philippe Guillard",
+            "actors": [
+                "Olivier Marchal",
+                "Olivia Bonamy",
+                "Mathieu Madenian"
+            ],
+            "synopsis": "Deux petits villages du Sud de la France se livrent depuis toujours une impitoyable guerre de clocher, symbolisée par un redoutable derby entre les deux équipes de rugby. L'arrivée inattendue de demandeurs d’asile va bouleverser la vie de ces deux villages.",
+            "sessions": 667,
+            "rating": {
+                "critics": 3.0,
+                "audience": 3.0
+            }
+        },
+        {
+            "title": "Hawaii",
+            "release_date": "10 mai 2023",
+            "length": "1h 44min",
+            "type": "Comédie",
+            "director": "Melissa Drigeard",
+            "actors": [
+                "Bérénice Bejo",
+                "Élodie Bouchez",
+                "Émilie Caen"
+            ],
+            "synopsis": "13 janvier 2018. 8h07. Une alerte au missile balistique sème la panique sur l’île de Hawaï. Persuadés qu’ils vont mourir, des amis venus passer leurs vacances en bande, se disent ce qu’ils n’ont jamais osé s’avouer. Mais il s’agit d’une fausse alerte...",
+            "sessions": 724,
+            "rating": {
+                "critics": 2.5,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "L'Arbre à voeux",
+            "release_date": "17 mai 2023",
+            "length": "1h 30min",
+            "type": "Aventure, Animation, Famille",
+            "director": "Ricard Cussó",
+            "actors": [
+                "Miranda Tapsell",
+                "Sophie Pyronnet",
+                "Miranda Tapsell"
+            ],
+            "synopsis": "Tous les animaux vivent en harmonie dans la Cité Sanctuaire, protégés par un Arbre à Vœux sacré, qui les maintient à l’abri des dangers du monde extérieur. Kerry, une jeune opossum, rêve d’aventure. Alors qu’elle a égoïstement mis en péril la paix qui y régnait, elle doit traverser les terres sauvages entourant la Cité Sanctuaire pour réparer les dégâts qu’elle y a causés.",
+            "sessions": 607,
+            "rating": {
+                "critics": 3.0,
+                "audience": 2.6
+            }
+        },
+        {
+            "title": "Notre tout petit petit mariage",
+            "release_date": "26 avril 2023",
+            "length": "1h 23min",
+            "type": "Comédie",
+            "director": "Frédéric Quiring",
+            "actors": [
+                "Ahmed Sylla",
+                "Camille Lou",
+                "Grégoire Bonnet"
+            ],
+            "synopsis": "Max et Lou se sont fait une promesse. Pour leur mariage ce sera seulement eux et leurs témoins. Mais ça… C’était sans compter sur l’ENORME fête surprise qui les attend ! Ils voulaient être 4, ils se retrouvent 300 et tout va très vite devenir incontrôlable… Ils rêvaient tout petit petit… Ils auront grand, TRÈS TRÈS grand !",
+            "sessions": 436,
+            "rating": {
+                "critics": 1.7,
+                "audience": 1.7
+            }
+        },
+        {
+            "title": "La Vie pour de vrai",
+            "release_date": "19 avril 2023",
+            "length": "1h 50min",
+            "type": "Comédie",
+            "director": "Dany Boon",
+            "actors": [
+                "Dany Boon",
+                "Charlotte Gainsbourg",
+                "Kad Merad"
+            ],
+            "synopsis": "Tridan Lagache a passé sa vie au Club Med, à changer d’amis tous les 8 jours. À 50 ans, il démissionne du club de vacances mexicain où il est né, bien décidé à retrouver, 42 ans plus tard, son grand amour d’enfance, Violette.",
+            "sessions": 437,
+            "rating": {
+                "critics": 2.8,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "Le Principal",
+            "release_date": "10 mai 2023",
+            "length": "1h 22min",
+            "type": "Drame",
+            "director": "Chad Chenouga",
+            "actors": [
+                "Roschdy Zem",
+                "Yolande Moreau",
+                "Marina Hands"
+            ],
+            "synopsis": "Sabri Lahlali, Principal adjoint d’un collège de quartier, est prêt à tout pour que son fils, sur le point de passer le brevet, ait le dossier scolaire idéal. Mais il ne sait pas jusqu’où son entreprise va le mener...",
+            "sessions": 706,
+            "rating": {
+                "critics": 3.3,
+                "audience": 3.2
+            }
+        },
+        {
+            "title": "L'Exorciste du Vatican",
+            "release_date": "10 mai 2023",
+            "length": "1h 43min",
+            "type": "Biopic, Fantastique, Epouvante-horreur",
+            "director": "Julius Avery",
+            "actors": [
+                "Russell Crowe",
+                "Daniel Zovatto",
+                "Alex Essoe"
+            ],
+            "synopsis": "Inspiré des véritables archives du Père Gabriele Amorth, exorciste en chef du Vatican. Le Père Gabriele Amorth enquête suite à la découverte terrifiante d'un jeune garçon possédé. Ses investigations le mèneront à dévoiler une conspiration séculaire que le Vatican a désespérément tenté de maintenir dans l'oubli.",
+            "sessions": 401,
+            "rating": {
+                "critics": 2.9,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "Hokusai",
+            "release_date": "26 avril 2023",
+            "length": "1h 30min",
+            "type": "Biopic, Drame, Historique",
+            "director": "Hajime Hashimoto",
+            "actors": [
+                "Yûya Yagira",
+                "Min Tanaka",
+                "Hiroshi Abe"
+            ],
+            "synopsis": "Japon, XVIIIème siècle. Le jeune Shunrô, apprenti peintre, est exclu de son école à cause de son tempérament impétueux et du style peu conventionnel de ses estampes. Personne n’imagine alors qu’il deviendra Hokusai, célèbre auteur de la Grande vague de Kanagawa.",
+            "sessions": 467,
+            "rating": {
+                "critics": 3.2,
+                "audience": 3.3
+            }
+        },
+        {
+            "title": "Quand tu seras grand",
+            "release_date": "26 avril 2023",
+            "length": "1h 39min",
+            "type": "Comédie dramatique",
+            "director": "Andréa Bescond, Eric Métayer",
+            "actors": [
+                "Vincent Macaigne",
+                "Aïssa Maïga",
+                "Evelyne Istria"
+            ],
+            "synopsis": "Yannick est aide-soignant dans une maison de retraite. Entre pression permanente et restrictions budgétaires, il fait face aux manques de moyens avec une bonne humeur contagieuse. Mais lorsqu’on lui impose de partager le réfectoire avec une classe d’enfants, la situation se complique. Leur arrivée ainsi que celle de son animatrice, Aude, va bousculer le quotidien de tous et surtout des résidents...",
+            "sessions": 454,
+            "rating": {
+                "critics": 3.1,
+                "audience": 2.8
+            }
+        },
+        {
+            "title": "Donjons & Dragons : L'Honneur des voleurs",
+            "release_date": "12 avril 2023",
+            "length": "2h 14min",
+            "type": "Aventure, Fantastique",
+            "director": "Jonathan Goldstein (XII), John Francis Daley",
+            "actors": [
+                "Chris Pine",
+                "Michelle Rodriguez",
+                "Regé-Jean Page"
+            ],
+            "synopsis": "Un voleur beau gosse et une bande d'aventuriers improbables entreprennent un casse épique pour récupérer une relique perdue. Les choses tournent mal lorsqu'ils s'attirent les foudres des mauvaises personnes.",
+            "sessions": 301,
+            "rating": {
+                "critics": 3.3,
+                "audience": 3.9
+            }
+        },
+        {
+            "title": "Umami",
+            "release_date": "17 mai 2023",
+            "length": "1h 31min",
+            "type": "Comédie, Drame",
+            "director": "Slony Sow",
+            "actors": [
+                "Gérard Depardieu",
+                "Sandrine Bonnaire",
+                "Bastien Bouillon"
+            ],
+            "synopsis": "Gabriel Carvin est un chef étoilé de grande renommée. Lorsque sa santé et sa vie de famille se détériorent, il décide de partir à l’autre bout du monde. Direction le Japon, à la recherche d’un chef japonais qui l’avait battu à un concours de cuisine 40 ans plus tôt.",
+            "sessions": 419,
+            "rating": {
+                "critics": 1.9,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "Evil Dead Rise",
+            "release_date": "19 avril 2023",
+            "length": "1h 37min",
+            "type": "Fantastique, Epouvante-horreur",
+            "director": "Lee Cronin",
+            "actors": [
+                "Lily Sullivan",
+                "Alyssa Sutherland",
+                "Morgan Davies"
+            ],
+            "synopsis": "Beth rend visite à sa grande sœur Ellie et ses trois enfants. Mais leurs retrouvailles tournent au cauchemar, quand elles découvrent un mystérieux livre dans le sous-sol de l’immeuble, dont la lecture libère des démons qui prennent possession des vivants...",
+            "sessions": 274,
+            "rating": {
+                "critics": 3.1,
+                "audience": 2.9
+            }
+        },
+        {
+            "title": "Je verrai toujours vos visages",
+            "release_date": "29 mars 2023",
+            "length": "1h 58min",
+            "type": "Drame",
+            "director": "Jeanne Herry",
+            "actors": [
+                "Adèle Exarchopoulos",
+                "Dali Benssalah",
+                "Leïla Bekhti"
+            ],
+            "synopsis": "Depuis 2014, en France, la Justice Restaurative propose à des personnes victimes et auteurs d’infraction de dialoguer dans des dispositifs sécurisés, encadrés par des professionnels et des bénévoles comme Judith, Fanny ou Michel.",
+            "sessions": 287,
+            "rating": {
+                "critics": 4.1,
+                "audience": 4.4
+            }
+        },
+        {
+            "title": "La Marginale",
+            "release_date": "3 mai 2023",
+            "length": "1h 37min",
+            "type": "Comédie",
+            "director": "Frank Cimière",
+            "actors": [
+                "Corinne Masiero",
+                "Vincent Chalambert",
+                "Karina Marimon"
+            ],
+            "synopsis": "Michèle, SDF, vit à l'aéroport d'Orly, vaguant entre les différents halls. Elle croise régulièrement Théo, jeune balayeur à l'aéroport. Atteint d'un handicap mental, il vit chez sa \" Tatie \" qui le surprotège. Un jour, Michèle fait une découverte des plus inattendues...",
+            "sessions": 378,
+            "rating": {
+                "critics": 2.2,
+                "audience": 2.5
+            }
+        },
+        {
+            "title": "Suzume",
+            "release_date": "12 avril 2023",
+            "length": "2h 02min",
+            "type": "Aventure, Animation, Drame",
+            "director": "Makoto Shinkai",
+            "actors": [
+                "Lévanah Solomon",
+                "Nanoka Hara",
+                "Benjamin Jungers"
+            ],
+            "synopsis": "Dans une petite ville paisible de Kyushu, une jeune fille de 17 ans, Suzume, rencontre un homme qui dit voyager à la recherche d’une porte. Décidant de le suivre dans les montagnes, elle découvre une porte délabrée trônant au milieu des ruines qu'elle décide d'ouvrir...",
+            "sessions": 287,
+            "rating": {
+                "critics": 3.8,
+                "audience": 4.2
+            }
+        },
+        {
+            "title": "Burning Days",
+            "release_date": "26 avril 2023",
+            "length": "2h 08min",
+            "type": "Drame, Thriller",
+            "director": "Emin Alper",
+            "actors": [
+                "Selahattin Paşalı",
+                "Ekin Koç",
+                "Erol Babaoğlu"
+            ],
+            "synopsis": "Emre, un jeune procureur déterminé et inflexible, vient d’être nommé dans une petite ville reculée de Turquie. À peine arrivé, il se heurte aux notables locaux bien décidés à défendre leurs privilèges par tous les moyens, même les plus extrêmes.",
+            "sessions": 352,
+            "rating": {
+                "critics": 3.7,
+                "audience": 3.9
+            }
+        },
+        {
+            "title": "Le Cours de la vie",
+            "release_date": "10 mai 2023",
+            "length": "1h 30min",
+            "type": "Comédie dramatique",
+            "director": "Frédéric Sojcher",
+            "actors": [
+                "Agnès Jaoui",
+                "Jonathan Zaccaï",
+                "Géraldine Nakache"
+            ],
+            "synopsis": "Noémie retrouve Vincent, son amour de jeunesse, dans l'école de cinéma dont il est désormais directeur. A travers une masterclass hors norme, elle va apprendre à Vincent et ses élèves que l'art d'écrire un scénario c'est l'art de vivre passionnément.",
+            "sessions": 471,
+            "rating": {
+                "critics": 3.3,
+                "audience": 3.7
+            }
+        },
+        {
+            "title": "Le Royaume de Naya",
+            "release_date": "29 mars 2023",
+            "length": "1h 39min",
+            "type": "Aventure,  Animation, Famille",
+            "director": "Oleh Malamuzh, Oleksandra Ruban",
+            "actors": [
+                "Nataliya Denisenko",
+                "Artem Pivovarov",
+                "Elena Kravets"
+            ],
+            "synopsis": "Par-delà les hautes Montagnes Noires se cache un royaume peuplé de créatures fantastiques. Naya, la nouvelle élue de cette forêt enchantée, rencontre Lucas, un jeune humain égaré dans les montagnes. À l’encontre des règles établies depuis des millénaires, ils vont se revoir...",
+            "sessions": 217,
+            "rating": {
+                "critics": 3.3,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Misanthrope",
+            "release_date": "26 avril 2023",
+            "length": "1h 58min",
+            "type": "Policier, Thriller",
+            "director": "Damián Szifron",
+            "actors": [
+                "Shailene Woodley",
+                "Ben Mendelsohn",
+                "Jovan Adepo"
+            ],
+            "synopsis": "Eleanor, une jeune enquêtrice au lourd passé, est appelée sur les lieux d’un crime de masse terrible. La police et le FBI lancent une chasse à l’homme sans précédent, mais face au mode opératoire constamment imprévisible de l’assassin, l’enquête piétine.",
+            "sessions": 269,
+            "rating": {
+                "critics": 3.7,
+                "audience": 3.8
+            }
+        },
+        {
+            "title": "Le Jeune imam",
+            "release_date": "26 avril 2023",
+            "length": "1h 38min",
+            "type": "Drame",
+            "director": "Kim Chapiron",
+            "actors": [
+                "Abdulah Sissoko",
+                "Hady Berthe",
+                "Issaka Sawadogo"
+            ],
+            "synopsis": "À 14 ans, Ali est un adolescent à la dérive. Sa mère qui l’élève seule ne trouve d’autres solutions que de l’envoyer au village au Mali pour finir son éducation. Dix ans plus tard, Ali revient. Malgré les doutes de sa mère auprès de qui il est prêt à tout pour briller, il devient l’imam de la cité. Adulé de tous et poussé par ses succès, Ali décide d’aider les fidèles à réaliser le rêve de tout musulman : faire le pèlerinage à la Mecque.",
+            "sessions": 230,
+            "rating": {
+                "critics": 2.9,
+                "audience": 3.0
+            }
+        },
+        {
+            "title": "Showing Up",
+            "release_date": "3 mai 2023",
+            "length": "1h 48min",
+            "type": "Comédie, Drame",
+            "director": "Kelly Reichardt",
+            "actors": [
+                "Michelle Williams",
+                "Hong Chau",
+                "André Benjamin"
+            ],
+            "synopsis": "À quelques semaines du vernissage de son exposition, le quotidien d’une artiste et son rapport aux autres. Le chaos de sa vie va devenir sa source d’inspiration...",
+            "sessions": 335,
+            "rating": {
+                "critics": 3.7,
+                "audience": 2.9
+            }
+        },
+        {
+            "title": "10 jours encore sans maman",
+            "release_date": "12 avril 2023",
+            "length": "1h 36min",
+            "type": "Comédie",
+            "director": "Ludovic Bernard",
+            "actors": [
+                "Franck Dubosc",
+                "Aure Atika",
+                "Swann Joulin"
+            ],
+            "synopsis": "Après son licenciement, Antoine, ancien DRH d’une grande enseigne de bricolage, a choisi de rester à la maison pour s’occuper de ses 4 enfants. Un nouveau travail qu’il effectue la plupart du temps seul, car sa femme Isabelle est très occupée par sa nouvelle activité d’avocate.",
+            "sessions": 186,
+            "rating": {
+                "critics": 2.3,
+                "audience": 2.2
+            }
+        },
+        {
+            "title": "Sur l'Adamant",
+            "release_date": "19 avril 2023",
+            "length": "1h 49min",
+            "type": "Documentaire",
+            "director": "Nicolas Philibert",
+            "actors": [],
+            "synopsis": "L’Adamant est un Centre de Jour unique en son genre : c’est un bâtiment flottant. Édifié sur la Seine, en plein cœur de Paris, il accueille des adultes souffrant de troubles psychiques, leur offrant un cadre de soins qui les structure dans le temps et l’espace, les aide à renouer avec le monde, à retrouver un peu d’élan.",
+            "sessions": 246,
+            "rating": {
+                "critics": 4.2,
+                "audience": 3.9
+            }
+        },
+        {
+            "title": "Beau Is Afraid",
+            "release_date": "26 avril 2023",
+            "length": "2h 59min",
+            "type": "Aventure, Comédie, Drame",
+            "director": "Ari Aster",
+            "actors": [
+                "Joaquin Phoenix",
+                "Nathan Lane",
+                "Amy Ryan"
+            ],
+            "synopsis": "Beau tente désespérément de rejoindre sa mère. Mais l’univers semble se liguer contre lui…",
+            "sessions": 221,
+            "rating": {
+                "critics": 3.6,
+                "audience": 3.3
+            }
+        },
+        {
+            "title": "La Conférence",
+            "release_date": "19 avril 2023",
+            "length": "1h 48min",
+            "type": "Drame, Historique",
+            "director": "Matti Geschonneck",
+            "actors": [
+                "Philipp Hochmair",
+                "Johannes Allmayer",
+                "Maximilian Brückner"
+            ],
+            "synopsis": "Au matin du 20 janvier 1942, des dignitaires du IIIe Reich se retrouvent dans une villa pour se mettre d'accord sur un plan d’élimination du peuple juif, appelé Solution Finale. Deux heures durant vont alors se succéder débats, manœuvres et jeux de pouvoir...",
+            "sessions": 216,
+            "rating": {
+                "critics": 3.4,
+                "audience": 3.7
+            }
+        },
+        {
+            "title": "The Quiet Girl",
+            "release_date": "12 avril 2023",
+            "length": "1h 36min",
+            "type": "Drame",
+            "director": "Colm Bairéad",
+            "actors": [
+                "Catherine Clinch",
+                "Carrie Crowley",
+                "Andrew Bennett"
+            ],
+            "synopsis": "Irlande, 1981, Cáit, une jeune fille effacée et négligée par sa famille, est envoyée vivre auprès de parents éloignés pendant l’été. Mais dans cette maison en apparence sans secret, où elle trouve l’épanouissement et l'affection, Cáit découvre une vérité douloureuse.",
+            "sessions": 214,
+            "rating": {
+                "critics": 3.7,
+                "audience": 4.1
+            }
+        },
+        {
+            "title": "Ma langue au chat",
+            "release_date": "26 avril 2023",
+            "length": "1h 43min",
+            "type": "Comédie",
+            "director": "Cécile Telerman",
+            "actors": [
+                "Zabou Breitman",
+                "Pascal Elbé",
+                "Mélanie Bernier"
+            ],
+            "synopsis": "A l’aube de la cinquantaine, Laure ne supporte plus rien. Le seul être qui trouve grâce à ses yeux est Max, son chat. Lorsque ses amis de toujours débarquent pour fêter l’anniversaire de son mari et que Max disparaît, Laure disjoncte…et se met à enquêter.",
+            "sessions": 228,
+            "rating": {
+                "critics": 2.7,
+                "audience": 3.2
+            }
+        },
+        {
+            "title": "Chien de la casse",
+            "release_date": "19 avril 2023",
+            "length": "1h 33min",
+            "type": "Comédie dramatique",
+            "director": "Jean-Baptiste Durand",
+            "actors": [
+                "Anthony Bajon",
+                "Raphaël Quenard",
+                "Galatea Bellugi"
+            ],
+            "synopsis": "Dog et Mirales sont amis d’enfance. Ils vivent dans un petit village du sud de la France et passent la majeure partie de leurs journées à traîner dans les rues. Pour tuer le temps, Mirales a pris l’habitude de taquiner Dog plus que de raison. Leur amitié va être mise à mal par l'arrivée au village d'une jeune fille.",
+            "sessions": 209,
+            "rating": {
+                "critics": 3.7,
+                "audience": 4.1
+            }
+        },
+        {
+            "title": "Sakra, la légende des demi-dieux",
+            "release_date": "10 mai 2023",
+            "length": "2h 10min",
+            "type": "Action,  Aventure, Arts Martiaux",
+            "director": "Donnie Yen, Kam Ka-Wai",
+            "actors": [
+                "Donnie Yen",
+                "Yuqi Chen",
+                "Cya Liu"
+            ],
+            "synopsis": "Royaume de Chine, Xème siècle. Qiao Feng du clan Song est un héros chevaleresque respecté, maître en arts martiaux. Accusé à tort d'avoir tué un chef de son propre clan, il est banni. Pour prouver son innocence, il s’engage dans un long périple...",
+            "sessions": 139,
+            "rating": {
+                "critics": 3.3,
+                "audience": 2.8
+            }
+        },
+        {
+            "title": "L'Homme debout",
+            "release_date": "17 mai 2023",
+            "length": "1h 26min",
+            "type": "Comédie dramatique",
+            "director": "Florence Vignon",
+            "actors": [
+                "Zita Hanrot",
+                "Jacques Gamblin",
+                "Cédric Moreau"
+            ],
+            "synopsis": "Pour décrocher un CDI dans l’entreprise de papier peint qui vient de l’engager, Clémence Alpharo, doit pousser Henri Giffard, VRP en fin de parcours, vers une retraite anticipée. Il faut rajeunir l’image de la petite boite. Mais Giffard refuse. Son travail semble être la seule chose qui donne encore un sens à sa vie.",
+            "sessions": 203,
+            "rating": {
+                "critics": 2.7,
+                "audience": 2.9
+            }
+        },
+        {
+            "title": "La Dernière reine",
+            "release_date": "19 avril 2023",
+            "length": "1h 50min",
+            "type": "Drame, Historique",
+            "director": "Damien Ounouri, Adila Bendimerad",
+            "actors": [
+                "Adila Bendimerad",
+                "Dali Benssalah",
+                "Mohamed Tahar Zaoui"
+            ],
+            "synopsis": "Algérie, 1516. Le pirate Aroudj Barberousse libère Alger de la tyrannie des Espagnols et prend le pouvoir sur le royaume. Selon la rumeur, il aurait assassiné le roi Salim Toumi, malgré leur alliance. Contre toute attente, une femme va lui tenir tête : la reine Zaphira.",
+            "sessions": 160,
+            "rating": {
+                "critics": 3.8,
+                "audience": 4.1
+            }
+        },
+        {
+            "title": "Les Aventures de Ricky",
+            "release_date": "12 avril 2023",
+            "length": "1h 25min",
+            "type": "Aventure, Animation, Famille",
+            "director": "Mette Rank-Tange, Benjamin Quabeck",
+            "actors": [
+                "Jay Myers",
+                "Jonathan Failla",
+                "Jeffrey Hylton"
+            ],
+            "synopsis": "Ricky, un jeune moineau intrépide adopté par une famille de cigognes, est embarqué dans une aventure épique au cœur de l’Afrique. Accompagné de ses fidèles amis Olga la chouette pygmée et Kiki la perruche disco, il se lance à la poursuite d’un joyau légendaire…",
+            "sessions": 142,
+            "rating": {
+                "critics": 3.3,
+                "audience": 2.4
+            }
+        },
+        {
+            "title": "War Pony",
+            "release_date": "10 mai 2023",
+            "length": "1h 54min",
+            "type": "Drame",
+            "director": "Gina Gammell, Riley Keough",
+            "actors": [
+                "Stanley Good Voice Elk",
+                "Jojo Bapteise Whiting",
+                "Steven Yellow Hawk"
+            ],
+            "synopsis": "Deux jeunes hommes de la tribu Oglala Lakota vivent dans la réserve de Pine Ridge, dans le Dakota du Sud. Liés par leur quête d’appartenance à une société qui leur est hostile, ils tentent de tracer leur propre voie vers l’âge adulte.",
+            "sessions": 217,
+            "rating": {
+                "critics": 3.4,
+                "audience": 3.7
+            }
+        },
+        {
+            "title": "La Plus belle pour aller danser",
+            "release_date": "19 avril 2023",
+            "length": "1h 32min",
+            "type": "Comédie",
+            "director": "Victoria Bedos",
+            "actors": [
+                "Brune Moulin",
+                "Philippe Katerine",
+                "Pierre Richard"
+            ],
+            "synopsis": "Marie-Luce Bison, 14 ans, est élevée par son père dans une joyeuse pension de famille pour seniors dont il est le directeur. C'est bientôt la soirée déguisée de son nouveau collège : son père ne veut pas qu'elle y aille ... et de toute façon, elle n'est pas invitée. Mais poussée par Albert, son meilleur ami de 80 ans, Marie-Luce, s'y incruste, habillée en homme.",
+            "sessions": 136,
+            "rating": {
+                "critics": 2.9,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Les Âmes sœurs",
+            "release_date": "12 avril 2023",
+            "length": "1h 40min",
+            "type": "Drame",
+            "director": "André Téchiné",
+            "actors": [
+                "Benjamin Voisin",
+                "Noémie Merlant",
+                "Audrey Dana"
+            ],
+            "synopsis": "David, lieutenant des forces françaises engagées au Mali, est grièvement blessé dans une explosion. Rapatrié en France, il souffre d’amnésie et commence une longue convalescence sous le regard dévoué de sa sœur Jeanne.Dans la maison familiale des Pyrénées, entre montagnes et lacs, Jeanne tente de raviver sa mémoire, mais David ne parait pas soucieux de se réconcilier avec celui qu’il était.",
+            "sessions": 116,
+            "rating": {
+                "critics": 3.6,
+                "audience": 3.0
+            }
+        },
+        {
+            "title": "Contes de Printemps",
+            "release_date": "29 mars 2023",
+            "length": "0h 47min",
+            "type": "Animation, Famille",
+            "director": "",
+            "actors": [],
+            "synopsis": "Un programme de 4 courts métrages pour réveiller la nature et les cœurs ! Le printemps s’annonce. Au milieu de la jungle ou de la forêt, la nature reprend ses droits, les rencontres en surprennent plus d’un, les sentiments amoureux éclosent et les troubadours chantent pour la reine. Des histoires d’une grande originalité portées par de jeunes talents de l’animation pour fêter cette saison pleine de promesses…",
+            "sessions": 103,
+            "rating": {
+                "critics": 3.0,
+                "audience": 2.3
+            }
+        },
+        {
+            "title": "Ramona fait son cinéma",
+            "release_date": "17 mai 2023",
+            "length": "1h 20min",
+            "type": "Comédie, Romance",
+            "director": "Andrea Bagney",
+            "actors": [
+                "Lourdes Hernández",
+                "Bruno Lastra",
+                "Francesco Carril"
+            ],
+            "synopsis": "De retour à Madrid avec son petit ami Nico, Ramona veut tenter sa chance comme actrice. La veille d’une première audition, elle fait une rencontre pleine de promesses. Elle ne se doute pas que celle-ci va chambouler ses rêves et ses certitudes.",
+            "sessions": 125,
+            "rating": {
+                "critics": 2.6,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "La Fille d’Albino Rodrigue",
+            "release_date": "10 mai 2023",
+            "length": "1h 30min",
+            "type": "Drame",
+            "director": "Christine Dory",
+            "actors": [
+                "Galatea Bellugi",
+                "Emilie Dequenne",
+                "Samir Guesmi"
+            ],
+            "synopsis": "Rosemay, 16 ans, vit en famille d'accueil et ne rejoint sa famille biologique que pour les vacances. Un jour, son père n’est pas là pour l’accueillir comme prévu. D’ailleurs, il ne réapparaît pas et semble s’être évaporé...",
+            "sessions": 129,
+            "rating": {
+                "critics": 3.4,
+                "audience": 2.8
+            }
+        },
+        {
+            "title": "Mon chat et moi, la grande aventure de Rroû",
+            "release_date": "5 avril 2023",
+            "length": "1h 23min",
+            "type": "Aventure, Famille",
+            "director": "Guillaume Maidatchevsky",
+            "actors": [
+                "Capucine Sainson-Fabresse",
+                "Corinne Masiero",
+                "Lucie Laurent"
+            ],
+            "synopsis": "Rroû est un chaton vif et curieux qui découvre la vie sur les toits de Paris. Son destin bascule lorsque Clémence, dix-ans, l’adopte et l’emmène dans sa maison de campagne au cœur des montagnes. Débute alors une extraordinaire aventure pour Clémence et Rroû, qui vont grandir ensemble, croiser la route de la mystérieuse Madeleine et vivre une merveilleuse histoire qui va les transformer à tout jamais.",
+            "sessions": 103,
+            "rating": {
+                "critics": 2.7,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Disco Boy",
+            "release_date": "3 mai 2023",
+            "length": "1h 31min",
+            "type": "Drame",
+            "director": "Giacomo Abbruzzese",
+            "actors": [
+                "Franz Rogowski",
+                "Morr N’Diaye",
+                "Laetitia Ky"
+            ],
+            "synopsis": "Prêt à tout pour s’enfuir de Biélorussie, Aleksei rejoint Paris et s’engage dans la Légion étrangère. Il est envoyé au combat dans le Delta du Niger où Jomo, jeune révolutionnaire, lutte contre les compagnies pétrolières qui ont dévasté son village.",
+            "sessions": 140,
+            "rating": {
+                "critics": 3.5,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Dancing Pina",
+            "release_date": "12 avril 2023",
+            "length": "1h 52min",
+            "type": "Documentaire",
+            "director": "Florian Heinzen-Ziob",
+            "actors": [],
+            "synopsis": "Au Semperoper en Allemagne et à l’École des Sables près de Dakar, de jeunes danseurs, guidés par d’anciens membres du Tanztheater de Pina Bausch, revisitent ses chorégraphies légendaires.",
+            "sessions": 132,
+            "rating": {
+                "critics": 3.9,
+                "audience": 4.2
+            }
+        },
+        {
+            "title": "John Wick : Chapitre 4",
+            "release_date": "22 mars 2023",
+            "length": "2h 50min",
+            "type": "Action",
+            "director": "Chad Stahelski",
+            "actors": [
+                "Keanu Reeves",
+                "Donnie Yen",
+                "Bill Skarsgård"
+            ],
+            "synopsis": "John Wick découvre un moyen de vaincre l’organisation criminelle connue sous le nom de la Grande Table. Mais avant de gagner sa liberté, Il doit affronter un nouvel ennemi qui a tissé de puissantes alliances à travers le monde et qui transforme les vieux amis de John en ennemis.",
+            "sessions": 68,
+            "rating": {
+                "critics": 3.6,
+                "audience": 4.0
+            }
+        },
+        {
+            "title": "About Kim Sohee",
+            "release_date": "5 avril 2023",
+            "length": "2h 17min",
+            "type": "Policier, Drame",
+            "director": "July Jung",
+            "actors": [
+                "Doona Bae",
+                "Kim Si-eun",
+                "Choi Hee-jin"
+            ],
+            "synopsis": "Pour son stage de fin d’étude, Kim Sohee intègre un centre d’appel de Korea Telecom. En quelques mois, son moral décline sous le poids de conditions de travail dégradantes et d’objectifs de plus en plus difficiles à tenir.",
+            "sessions": 99,
+            "rating": {
+                "critics": 3.8,
+                "audience": 4.1
+            }
+        },
+        {
+            "title": "Le Bleu du Caftan",
+            "release_date": "22 mars 2023",
+            "length": "2h 02min",
+            "type": "Drame, Romance",
+            "director": "Maryam Touzani",
+            "actors": [
+                "Lubna Azabal",
+                "Saleh Bakri",
+                "Ayoub Missioui"
+            ],
+            "synopsis": "Halim est marié depuis longtemps à Mina, avec qui il tient un magasin traditionnel de caftans dans la médina de Salé, au Maroc. Le couple vit depuis toujours avec le secret d’Halim, son homosexualité qu’il a appris à taire.",
+            "sessions": 83,
+            "rating": {
+                "critics": 3.8,
+                "audience": 4.3
+            }
+        },
+        {
+            "title": "Le Petit hérisson dans la brume et autres merveilles",
+            "release_date": "5 avril 2023",
+            "length": "0h 39min",
+            "type": "Animation, Famille",
+            "director": "Yuri Norstein, Roman Kachanov, Eduard Nazarov",
+            "actors": [
+                "Philippe Caubère",
+                "Bruno Raffaelli",
+                "Anna Choupisson"
+            ],
+            "synopsis": "Quatre courts métrages, pour quatre moments de cinéma qui prouvent toute l’inventivité et la puissance poétique d’un cinéma d’animation fondateur, mais encore trop méconnu en France.",
+            "sessions": 101,
+            "rating": {
+                "critics": 4.3,
+                "audience": 2.8
+            }
+        },
+        {
+            "title": "Le Prix de la Vérité, L’histoire vraie de Graham Staines",
+            "release_date": "10 mai 2023",
+            "length": "1h 49min",
+            "type": "Biopic, Drame",
+            "director": "Aneesh Daniel",
+            "actors": [
+                "Stephen Baldwin",
+                "Sharman Joshi",
+                "Shari Rigby"
+            ],
+            "synopsis": "À la fin des années 1990, dans l’état d’Orissa, Manav, un journaliste indien, est chargé d'enquêter sur Graham Staines, un missionnaire australien soupçonné d’acheter la conversion des pauvres au christianisme.",
+            "sessions": 71,
+            "rating": {
+                "critics": "N/A",
+                "audience": 3.1
+            }
+        },
+        {
+            "title": "Temps Mort",
+            "release_date": "3 mai 2023",
+            "length": "1h 58min",
+            "type": "Drame",
+            "director": "Eve Duchemin",
+            "actors": [
+                "Karim Leklou",
+                "Issaka Sawadogo",
+                "Jarod Cousyns"
+            ],
+            "synopsis": "Pour la première fois depuis longtemps, trois détenus se voient accorder une permission d’un week-end. 48h pour atterrir. 48h pour renouer avec leurs proches. 48h pour tenter de rattraper le temps perdu.",
+            "sessions": 131,
+            "rating": {
+                "critics": 3.3,
+                "audience": 3.6
+            }
+        },
+        {
+            "title": "Un an, une nuit",
+            "release_date": "3 mai 2023",
+            "length": "2h 10min",
+            "type": "Drame",
+            "director": "Isaki Lacuesta",
+            "actors": [
+                "Noémie Merlant",
+                "Nahuel Perez Biscayart",
+                "Quim Gutiérrez"
+            ],
+            "synopsis": "Le soir du 13 novembre 2015, Ramón et Céline, un jeune couple, assistent au concert du Bataclan. Ils réchappent à l’attaque terroriste, mais ne parviennent pas à reprendre une vie normale. Comment surmonter l’épreuve et se tourner de nouveau, ensemble, vers la vie ?",
+            "sessions": 119,
+            "rating": {
+                "critics": 2.5,
+                "audience": 3.1
+            }
+        },
+        {
+            "title": "L'Établi",
+            "release_date": "5 avril 2023",
+            "length": "1h 57min",
+            "type": "Drame",
+            "director": "Mathias Gokalp",
+            "actors": [
+                "Swann Arlaud",
+                "Mélanie Thierry",
+                "Denis Podalydès"
+            ],
+            "synopsis": "Quelques mois après mai 68, Robert, normalien et militant d’extrême-gauche, décide de se faire embaucher chez Citroën en tant que travailleur à la chaîne. Comme d’autres de ses camarades , il veut s’infiltrer en usine pour raviver le feu révolutionnaire, mais la majorité des ouvriers ne veut plus entendre parler de politique.",
+            "sessions": 92,
+            "rating": {
+                "critics": 3.5,
+                "audience": 3.8
+            }
+        },
+        {
+            "title": "Sur les chemins noirs",
+            "release_date": "22 mars 2023",
+            "length": "1h 35min",
+            "type": "Drame",
+            "director": "Denis Imbert",
+            "actors": [
+                "Jean Dujardin",
+                "Joséphine Japy",
+                "Izïa Higelin"
+            ],
+            "synopsis": "Un soir d’ivresse, Pierre, écrivain explorateur, fait une chute de plusieurs étages. Cet accident le plonge dans un coma profond. Sur son lit d’hôpital, revenu à la vie, il se fait la promesse de traverser la France à pied du Mercantour au Cotentin.",
+            "sessions": 76,
+            "rating": {
+                "critics": 3.0,
+                "audience": 3.6
+            }
+        },
+        {
+            "title": "Blue Jean",
+            "release_date": "19 avril 2023",
+            "length": "1h 37min",
+            "type": "Drame",
+            "director": "Georgia Oakley",
+            "actors": [
+                "Rosy McEwen",
+                "Kerrie Hayes",
+                "Lucy Halliday"
+            ],
+            "synopsis": "1988, l’Angleterre de Margaret Thatcher. Jean, professeure d’éducation physique, est obligée de cacher son homosexualité, surtout depuis le vote d’une loi stigmatisant la communauté gay. C’est sans compter sur une nouvelle étudiante qui menace de révéler son secret…",
+            "sessions": 68,
+            "rating": {
+                "critics": 3.5,
+                "audience": 3.8
+            }
+        },
+        {
+            "title": "Pompoko",
+            "release_date": "18 janvier 2006",
+            "length": "1h 54min",
+            "type": "Animation, Comédie dramatique",
+            "director": "Isao Takahata",
+            "actors": [
+                "Makoto Nonomura",
+                "Yuriko Ishida",
+                "Akira Kamiya"
+            ],
+            "synopsis": "Espèce mi-raton laveur mi-blaireau, les Tanukis partageaient aisément leur espace vital avec les paysans. Entrecoupée de batailles entre tribus, leur vie insouciante leur faisait ignorer la présence toujours plus proche des hommes… Jusqu’au jour où ces derniers décident de s’approprier leur territoire et de faire de la montagne une ville. Capables de se métamorphoser à volonté, les Tanukis vont tenter d’effrayer les humains grâce à leurs pouvoirs extraordinaires. Cependant, il en faudra plus pour que les hommes renoncent à la destruction de la forêt. Face à la menace expansionniste, la riposte des Tanukis s’organise mais les animaux ne sont pas au bout de leurs peines !",
+            "sessions": 87,
+            "rating": {
+                "critics": 4.4,
+                "audience": 3.7
+            }
+        },
+        {
+            "title": "Sublime",
+            "release_date": "17 mai 2023",
+            "length": "1h 40min",
+            "type": "Drame, Romance",
+            "director": "Mariano Biasin",
+            "actors": [
+                "Martin Miller",
+                "Teo Inama Chiabrando",
+                "Azul Mazzeo"
+            ],
+            "synopsis": "Manuel, 16 ans, est un adolescent comme les autres. Dans sa petite ville côtière d’Argentine, il traîne avec ses amis et sa petite-amie, va à la plage, et joue de la basse dans un groupe de rock. Une routine parfaite pour un garçon de son âge. Mais sa vie se complique lorsqu’il commence à ressentir quelque chose de spécial pour son meilleur ami Felipe.",
+            "sessions": 67,
+            "rating": {
+                "critics": 2.8,
+                "audience": 2.6
+            }
+        },
+        {
+            "title": "Le Paradis",
+            "release_date": "10 mai 2023",
+            "length": "1h 23min",
+            "type": "Drame, Romance",
+            "director": "Zeno Graton",
+            "actors": [
+                "Khalil Gharbia",
+                "Julien De Saint-Jean",
+                "Eye Haïdara"
+            ],
+            "synopsis": "Joe, 17 ans, est sur le point de sortir d’un centre fermé pour mineurs délinquants. Si son juge approuve sa libération, il ira vivre en autonomie. Mais l'arrivée d'un nouveau jeune, William, va remettre en question son désir de liberté.",
+            "sessions": 70,
+            "rating": {
+                "critics": 3.4,
+                "audience": 3.7
+            }
+        },
+        {
+            "title": "A vol d'oiseaux",
+            "release_date": "5 avril 2023",
+            "length": "0h 57min",
+            "type": "Animation, Famille",
+            "director": "",
+            "actors": [],
+            "synopsis": "À Vol d’oiseaux rassemble trois courts métrages d’animation délicats, sensibles. Un pur moment de bonheur, aérien, à la fin duquel on se sent pousser des ailes ! Un programme comme une parenthèse de douceur, où les adultes retrouvent leur âme d’enfant, les plus jeunes grandissent dans l’espoir d’une vie bienveillante, où chacun est incité à sortir de sa coquille pour voler de ses propres ailes.",
+            "sessions": 99,
+            "rating": {
+                "critics": 3.8,
+                "audience": 3.5
             }
         }
     ]
