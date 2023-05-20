@@ -1,0 +1,275 @@
+{
+    "films_number": 15,
+    "films": [
+        {
+            "title": "Les Gardiens de la Galaxie 3",
+            "release_date": "3 mai 2023",
+            "length": "2h 30min",
+            "type": "Action, Fantastique, Science Fiction",
+            "director": "James Gunn",
+            "actors": [
+                "Chris Pratt",
+                "Zoe Saldana",
+                "Dave Bautista"
+            ],
+            "synopsis": "Notre bande de marginaux favorite a quelque peu changé. Peter Quill, qui pleure toujours la perte de Gamora, doit rassembler son équipe pour défendre l’univers et protéger l’un des siens. En cas d’échec, cette mission pourrait bien marquer la fin des Gardiens tels que nous les connaissons.",
+            "sessions": 1127,
+            "rating": {
+                "critics": 3.6,
+                "audience": 4.3
+            }
+        },
+        {
+            "title": "Super Mario Bros, le film",
+            "release_date": "5 avril 2023",
+            "length": "1h 32min",
+            "type": "Animation, Comédie, Famille",
+            "director": "Aaron Horvath, Michael Jelenic",
+            "actors": [
+                "Pierre Tessier",
+                "Chris Pratt",
+                "Jérémie Covillault"
+            ],
+            "synopsis": "Alors qu’ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit.",
+            "sessions": 797,
+            "rating": {
+                "critics": 3.1,
+                "audience": 4.2
+            }
+        },
+        {
+            "title": "Fast & Furious X",
+            "release_date": "17 mai 2023",
+            "length": "2h 21min",
+            "type": "Action",
+            "director": "Louis Leterrier",
+            "actors": [
+                "Vin Diesel",
+                "Michelle Rodriguez",
+                "Jason Momoa"
+            ],
+            "synopsis": "Dans FAST & FURIOUS 5, Dom et son équipe avaient fait tomber l’infâme ponte de la drogue brésilienne, Hernan Reyes. Ils étaient loin de se douter que son fils avait assisté impuissant à la scène et qu’il avait passé ces douze dernières années à échafauder sa vengeance.",
+            "sessions": 892,
+            "rating": {
+                "critics": 2.9,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Jeanne du Barry",
+            "release_date": "17 mai 2023",
+            "length": "1h 56min",
+            "type": "Drame, Historique, Romance",
+            "director": " Maïwenn",
+            "actors": [
+                "Maïwenn",
+                "Johnny Depp",
+                "Benjamin Lavernhe"
+            ],
+            "synopsis": "Jeanne Vaubernier, fille du peuple avide de s’élever socialement, met à profit ses charmes pour sortir de sa condition. Son amant le comte Du Barry, qui s’enrichit largement grâce aux galanteries lucratives de Jeanne, souhaite la présenter au Roi. Il organise la rencontre via l’entremise de l’influent duc de Richelieu.",
+            "sessions": 1016,
+            "rating": {
+                "critics": 3.1,
+                "audience": 3.5
+            }
+        },
+        {
+            "title": "Les Trois Mousquetaires: D'Artagnan",
+            "release_date": "5 avril 2023",
+            "length": "2h 01min",
+            "type": "Aventure, Historique",
+            "director": "Martin Bourboulon",
+            "actors": [
+                "François Civil",
+                "Vincent Cassel",
+                "Romain Duris"
+            ],
+            "synopsis": "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
+            "sessions": 569,
+            "rating": {
+                "critics": 3.7,
+                "audience": 4.0
+            }
+        },
+        {
+            "title": "Pour l’honneur",
+            "release_date": "3 mai 2023",
+            "length": "1h 37min",
+            "type": "Comédie",
+            "director": "Philippe Guillard",
+            "actors": [
+                "Olivier Marchal",
+                "Olivia Bonamy",
+                "Mathieu Madenian"
+            ],
+            "synopsis": "Deux petits villages du Sud de la France se livrent depuis toujours une impitoyable guerre de clocher, symbolisée par un redoutable derby entre les deux équipes de rugby. L'arrivée inattendue de demandeurs d’asile va bouleverser la vie de ces deux villages.",
+            "sessions": 664,
+            "rating": {
+                "critics": 3.0,
+                "audience": 3.0
+            }
+        },
+        {
+            "title": "Hawaii",
+            "release_date": "10 mai 2023",
+            "length": "1h 44min",
+            "type": "Comédie",
+            "director": "Melissa Drigeard",
+            "actors": [
+                "Bérénice Bejo",
+                "Élodie Bouchez",
+                "Émilie Caen"
+            ],
+            "synopsis": "13 janvier 2018. 8h07. Une alerte au missile balistique sème la panique sur l’île de Hawaï. Persuadés qu’ils vont mourir, des amis venus passer leurs vacances en bande, se disent ce qu’ils n’ont jamais osé s’avouer. Mais il s’agit d’une fausse alerte...",
+            "sessions": 713,
+            "rating": {
+                "critics": 2.5,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "L'Arbre à voeux",
+            "release_date": "17 mai 2023",
+            "length": "1h 30min",
+            "type": "Aventure, Animation, Famille",
+            "director": "Ricard Cussó",
+            "actors": [
+                "Miranda Tapsell",
+                "Sophie Pyronnet",
+                "Miranda Tapsell"
+            ],
+            "synopsis": "Tous les animaux vivent en harmonie dans la Cité Sanctuaire, protégés par un Arbre à Vœux sacré, qui les maintient à l’abri des dangers du monde extérieur. Kerry, une jeune opossum, rêve d’aventure. Alors qu’elle a égoïstement mis en péril la paix qui y régnait, elle doit traverser les terres sauvages entourant la Cité Sanctuaire pour réparer les dégâts qu’elle y a causés.",
+            "sessions": 602,
+            "rating": {
+                "critics": 3.0,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "Notre tout petit petit mariage",
+            "release_date": "26 avril 2023",
+            "length": "1h 23min",
+            "type": "Comédie",
+            "director": "Frédéric Quiring",
+            "actors": [
+                "Ahmed Sylla",
+                "Camille Lou",
+                "Grégoire Bonnet"
+            ],
+            "synopsis": "Max et Lou se sont fait une promesse. Pour leur mariage ce sera seulement eux et leurs témoins. Mais ça… C’était sans compter sur l’ENORME fête surprise qui les attend ! Ils voulaient être 4, ils se retrouvent 300 et tout va très vite devenir incontrôlable… Ils rêvaient tout petit petit… Ils auront grand, TRÈS TRÈS grand !",
+            "sessions": 436,
+            "rating": {
+                "critics": 1.7,
+                "audience": 1.7
+            }
+        },
+        {
+            "title": "La Vie pour de vrai",
+            "release_date": "19 avril 2023",
+            "length": "1h 50min",
+            "type": "Comédie",
+            "director": "Dany Boon",
+            "actors": [
+                "Dany Boon",
+                "Charlotte Gainsbourg",
+                "Kad Merad"
+            ],
+            "synopsis": "Tridan Lagache a passé sa vie au Club Med, à changer d’amis tous les 8 jours. À 50 ans, il démissionne du club de vacances mexicain où il est né, bien décidé à retrouver, 42 ans plus tard, son grand amour d’enfance, Violette.",
+            "sessions": 436,
+            "rating": {
+                "critics": 2.8,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "Le Principal",
+            "release_date": "10 mai 2023",
+            "length": "1h 22min",
+            "type": "Drame",
+            "director": "Chad Chenouga",
+            "actors": [
+                "Roschdy Zem",
+                "Yolande Moreau",
+                "Marina Hands"
+            ],
+            "synopsis": "Sabri Lahlali, Principal adjoint d’un collège de quartier, est prêt à tout pour que son fils, sur le point de passer le brevet, ait le dossier scolaire idéal. Mais il ne sait pas jusqu’où son entreprise va le mener...",
+            "sessions": 694,
+            "rating": {
+                "critics": 3.3,
+                "audience": 3.2
+            }
+        },
+        {
+            "title": "L'Exorciste du Vatican",
+            "release_date": "10 mai 2023",
+            "length": "1h 43min",
+            "type": "Biopic, Fantastique, Epouvante-horreur",
+            "director": "Julius Avery",
+            "actors": [
+                "Russell Crowe",
+                "Daniel Zovatto",
+                "Alex Essoe"
+            ],
+            "synopsis": "Inspiré des véritables archives du Père Gabriele Amorth, exorciste en chef du Vatican. Le Père Gabriele Amorth enquête suite à la découverte terrifiante d'un jeune garçon possédé. Ses investigations le mèneront à dévoiler une conspiration séculaire que le Vatican a désespérément tenté de maintenir dans l'oubli.",
+            "sessions": 398,
+            "rating": {
+                "critics": 2.9,
+                "audience": 2.7
+            }
+        },
+        {
+            "title": "Hokusai",
+            "release_date": "26 avril 2023",
+            "length": "1h 30min",
+            "type": "Biopic, Drame, Historique",
+            "director": "Hajime Hashimoto",
+            "actors": [
+                "Yûya Yagira",
+                "Min Tanaka",
+                "Hiroshi Abe"
+            ],
+            "synopsis": "Japon, XVIIIème siècle. Le jeune Shunrô, apprenti peintre, est exclu de son école à cause de son tempérament impétueux et du style peu conventionnel de ses estampes. Personne n’imagine alors qu’il deviendra Hokusai, célèbre auteur de la Grande vague de Kanagawa.",
+            "sessions": 465,
+            "rating": {
+                "critics": 3.2,
+                "audience": 3.3
+            }
+        },
+        {
+            "title": "Quand tu seras grand",
+            "release_date": "26 avril 2023",
+            "length": "1h 39min",
+            "type": "Comédie dramatique",
+            "director": "Andréa Bescond, Eric Métayer",
+            "actors": [
+                "Vincent Macaigne",
+                "Aïssa Maïga",
+                "Evelyne Istria"
+            ],
+            "synopsis": "Yannick est aide-soignant dans une maison de retraite. Entre pression permanente et restrictions budgétaires, il fait face aux manques de moyens avec une bonne humeur contagieuse. Mais lorsqu’on lui impose de partager le réfectoire avec une classe d’enfants, la situation se complique. Leur arrivée ainsi que celle de son animatrice, Aude, va bousculer le quotidien de tous et surtout des résidents...",
+            "sessions": 449,
+            "rating": {
+                "critics": 3.1,
+                "audience": 2.8
+            }
+        },
+        {
+            "title": "Donjons & Dragons : L'Honneur des voleurs",
+            "release_date": "12 avril 2023",
+            "length": "2h 14min",
+            "type": "Aventure, Fantastique",
+            "director": "Jonathan Goldstein (XII), John Francis Daley",
+            "actors": [
+                "Chris Pine",
+                "Michelle Rodriguez",
+                "Regé-Jean Page"
+            ],
+            "synopsis": "Un voleur beau gosse et une bande d'aventuriers improbables entreprennent un casse épique pour récupérer une relique perdue. Les choses tournent mal lorsqu'ils s'attirent les foudres des mauvaises personnes.",
+            "sessions": 301,
+            "rating": {
+                "critics": 3.3,
+                "audience": 3.9
+            }
+        }
+    ]
+}
