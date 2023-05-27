@@ -2,8 +2,11 @@
 
 Ce scrapper permet d'accéder à un nombre défini de page contenant les derniers films à l'affiche (classés par nombre de séances décroissant).
 
+![à l'affiche](/assets/allocine.png)
+
+
 ### Pré-requis 
-Pour que le scrapper fonctionne on utilise le module `requests` ainsi que le module `BeautifulSoup`. Le module `requests` étant déjà présent par défaut on doit installer `BeautifulSoup`
+Pour que le scrapper fonctionne on utilise le module `requests` ainsi que le module `BeautifulSoup`. Le module `requests` étant déjà présent par défaut on doit installer `BeautifulSoup`.
 
 Pour cela :
 * `$ pip install bs4`
@@ -31,6 +34,7 @@ Les données sont sous forme de dictionnaire dans le code afin de pouvoir les é
 
 
 *ici un exemple avec Les Gardiens de la Galaxie 3 :*
+
 ```json
 "films_number": 15,
 "films": [
